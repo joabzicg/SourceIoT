@@ -305,32 +305,32 @@ DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Project_Source_IoT.x
 DItemRevisionGUID=
 
 [Parameter1]
-Name=TituloProjeto
-Value=Fonte Padrão IoT
+Name=Conta
+Value=Virtus CC
 
 [Parameter2]
-Name=Revisor
-Value=Fulano de Tal
+Name=NumeroContrato
+Value=1° Contrato
 
 [Parameter3]
-Name=Rev
-Value=v.0.1
+Name=Projetista
+Value=Joab da Silva Bezerra
 
 [Parameter4]
 Name=Projeto
 Value=Virtus CC
 
 [Parameter5]
-Name=Projetista
-Value=Joab da Silva Bezerra
+Name=Rev
+Value=v.0.1
 
 [Parameter6]
-Name=NumeroContrato
-Value=1° Contrato
+Name=Revisor
+Value=Fulano de Tal
 
 [Parameter7]
-Name=Conta
-Value=Virtus CC
+Name=TituloProjeto
+Value=Fonte Padrão IoT
 
 [Configuration1]
 Name=Sources
