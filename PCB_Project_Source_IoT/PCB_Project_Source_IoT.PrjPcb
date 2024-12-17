@@ -288,6 +288,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ALWIIPWL
 
+[Document15]
+DocumentPath=Schematics\Sheet7_Mecânica.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SXVJOWDV
+
 [ProjectVariant1]
 UniqueId=7895028c-c4d1-41d1-b79f-9b99b00089b2
 Description=Assembly
@@ -1250,7 +1267,7 @@ L16=WWWWNWWNWWWNWWWNW
 L17=EEEEEEEEWNNNWWWWN
 
 [Annotate]
-SortOrder=1
+SortOrder=3
 SortLocation=0
 ReplaceSubparts=0
 MatchParameter1=Comment
