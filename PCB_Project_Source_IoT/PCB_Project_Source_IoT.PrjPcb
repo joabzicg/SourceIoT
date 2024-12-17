@@ -354,78 +354,154 @@ DocumentPath=https://academicoifrnedu-my.sharepoint.com/personal/joab_s_academic
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for PCB_Project_Source_IoT\Design Rule Check - PCB_Source_IoT.html
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\BOM\Bill of Materials-PCB_Project_Source_IoT.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Project_Source_IoT.xlsx
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\Design Rule Check - PCB_Source_IoT.html
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Source_IoT.DRR
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Project_Source_IoT.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Source_IoT.EXTREP
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\Gerber\PCB_Source_IoT.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Source_IoT.GBL
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Source_IoT.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Source_IoT.GBO
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\Gerber\PCB_Source_IoT.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Source_IoT.GBP
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Source_IoT.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Source_IoT.GBS
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\Gerber\PCB_Source_IoT.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Source_IoT.GM
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Source_IoT.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Source_IoT.GM3
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\Gerber\PCB_Source_IoT.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Source_IoT.GM4
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Source_IoT.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Source_IoT.GM10
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\Gerber\PCB_Source_IoT.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Source_IoT.GTL
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Source_IoT.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Source_IoT.GTO
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\Gerber\PCB_Source_IoT.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Source_IoT.GTP
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Source_IoT.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Source_IoT.GTS
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\Gerber\PCB_Source_IoT.GM
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Source_IoT.LDP
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Source_IoT.GM
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Source_IoT.REP
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\Gerber\PCB_Source_IoT.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument20]
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Source_IoT.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\Gerber\PCB_Source_IoT.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Source_IoT.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\Gerber\PCB_Source_IoT.GM10
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Source_IoT.GM10
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\Gerber\PCB_Source_IoT.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Source_IoT.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\Gerber\PCB_Source_IoT.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Source_IoT.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\Gerber\PCB_Source_IoT.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Source_IoT.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\Gerber\PCB_Source_IoT.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Source_IoT.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\Gerber\PCB_Source_IoT.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Source_IoT.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\Gerber\PCB_Source_IoT.REP
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Source_IoT.REP
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\ExportSTEP\PCB_Source_IoT.step
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for PCB_Project_Source_IoT\Gerber\PCB_Source_IoT.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument39]
 DocumentPath=Project Outputs for PCB_Project_Source_IoT\PCB_Source_IoT.TXT
 DItemRevisionGUID=
 
