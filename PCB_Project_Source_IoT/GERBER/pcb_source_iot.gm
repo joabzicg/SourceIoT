@@ -1,0 +1,15 @@
+%FSTAX24Y24*%
+%MOIN*%
+%SFA1B1*%
+
+%IPPOS*%
+%ADD78C,0.001000*%
+%LNpcb_source_iot-1*%
+%LPD*%
+G54D78*
+X0Y0D02*
+X017717D01*
+Y021811*
+X0*
+Y0*
+M02*

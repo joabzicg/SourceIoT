@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [PCB_Source_IoT.PcbDoc]
+   Generated File[PCB_Source_IoT.TXT]
+   Generated File[PCB_Source_IoT.LDP]
+   Generated File[PCB_Source_IoT.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 18:11:28 On 17/12/2024
