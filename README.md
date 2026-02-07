@@ -1,5 +1,4 @@
 # SourceIoT
-Projeto PCB de uma fonte de alimentação para dispositivos IoT.
+PCB design project for a power supply for IoT devices.
 
-
-Capacitação em eletrônica VIRTUS-CC UFCG 2024.
+Electronics training program — VIRTUS-CC (UFCG), 2024.
